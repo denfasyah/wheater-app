@@ -1,7 +1,6 @@
 # wheater-app
-simple application to get weather data from cities around the world using the OpenWeatherMap API. The app allows users to search for cities and view weather information such as temperature, humidity and wind speed. This project is developed using JavaScript
 
-Deskripsi:
+**Deskripsi**:
 Proyek ini adalah sebuah aplikasi sederhana untuk mendapatkan data cuaca dari kota-kota di seluruh dunia menggunakan API OpenWeatherMap. Aplikasi ini memungkinkan pengguna untuk mencari kota dan melihat informasi cuaca seperti suhu, kelembaban, dan kecepatan angin. Selain itu, aplikasi ini juga menampilkan ikon cuaca yang sesuai dengan kondisi cuaca saat ini. Proyek ini dikembangkan menggunakan JavaScript dan teknologi web front-end.
 
 Fitur Utama:
