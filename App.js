@@ -4,10 +4,6 @@ const apiKey = "4ff513511a5b611f25ff065ee407a89d";
 const weatherIcons = {
   Clear: "img/clear.png",
   Night: "img/night.png",
-  // Clouds: "img/clouds.png",
-  // Rain: "img/rain.png",
-  // Drizzle:"img/drizzle.png",
-  // Haze: "img/haze.png",
 };
 
 const searchBorder = document.querySelector(".search input");
