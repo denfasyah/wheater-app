@@ -113,10 +113,61 @@ body {
 }
 
 .world {
-  margin-bottom: 350px;
+  margin-bottom: 200px;
 }
 
 .not-found {
-  margin-bottom: 410px;
+  margin-bottom: 210px;
   margin-top: 20px;
 }
+
+
+/* CSS Responsif untuk Layar Mobile */
+@media (max-width: 768px) {
+  .card {
+    margin-top: 50px;
+    width: 95%; /* Mengurangi lebar kartu untuk tampilan mobile */
+  }
+
+  .search {
+    flex-direction: row;
+  }
+
+  .search input {
+    width: 100%; 
+  }
+
+  .search button {
+    margin-top: 10px; 
+  }
+
+  .details {
+    flex-direction: column; 
+  }
+
+  .col {
+    margin: 10px 0; 
+  }
+
+  .weather-icon {
+    width: 70px;
+    margin: 20px auto;
+  }
+  
+  .weather h1 {
+    font-size: 20px; 
+  }
+
+  .weather h2 {
+    font-size: 14px; 
+  }
+  .wind, .humidity{
+    font-size: 14px;
+  }
+}
+
+
+
+
+
+
